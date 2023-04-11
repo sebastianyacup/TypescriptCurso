@@ -1,0 +1,17 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modulos.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
